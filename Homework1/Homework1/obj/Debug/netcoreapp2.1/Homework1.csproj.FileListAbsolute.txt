@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/bin/Debug/netcoreapp2.1/Homework1.deps.json
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/bin/Debug/netcoreapp2.1/Homework1.runtimeconfig.json
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/bin/Debug/netcoreapp2.1/Homework1.runtimeconfig.dev.json
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/bin/Debug/netcoreapp2.1/Homework1.dll
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/bin/Debug/netcoreapp2.1/Homework1.pdb
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/obj/Debug/netcoreapp2.1/Homework1.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/obj/Debug/netcoreapp2.1/Homework1.csproj.CoreCompileInputs.cache
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/obj/Debug/netcoreapp2.1/Homework1.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/obj/Debug/netcoreapp2.1/Homework1.AssemblyInfo.cs
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/obj/Debug/netcoreapp2.1/Homework1.dll
+/Users/Britta/Desktop/Homework1/Homework1/Homework1/obj/Debug/netcoreapp2.1/Homework1.pdb
